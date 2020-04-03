@@ -124,6 +124,6 @@ const displaySoundSuggestions = (event,flag) => {
 
 
 submitRhyme.addEventListener('click', displayRhymesSuggestions);
-submitAdjective.addEventListener('click', displayRhymesSuggestions);
+submitAdjective.addEventListener('click', displayAdjectiveSuggestions);
 submitMeaning.addEventListener('click', displayMeaningSuggestions);
 submitSound.addEventListener('click', displaySoundSuggestions);
