@@ -49,12 +49,12 @@ li {
   text-align: center;
   color: #ffffff;
 }
-#button {
+button {
   color: #fff !important;
   text-transform: uppercase;
   text-decoration: none;
   background: #60a3bc;
-  padding: 20px;
+  padding: 10px;
   border-radius: 50px;
   display: inline-block;
   border: none;
