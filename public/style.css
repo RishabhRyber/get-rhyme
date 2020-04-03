@@ -49,7 +49,7 @@ h1 {
     text-align: center;
     color: #ffffff;
   }
-  #submit {
+  #button {
     width: 125px;
     height: 30px;
     border-radius: 2px;
@@ -80,11 +80,11 @@ h1 {
     padding: 20px;
   }
   
-  #submit:hover {
+  button:hover {
     color: #ffffff;
     cursor: pointer;
   }
-  #submit:active {
+  button:active {
     background-color: #ffffff;
     border-color: #ffffff;
     color: #ef6b68;
