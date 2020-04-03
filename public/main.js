@@ -40,7 +40,7 @@ const displayRhymesSuggestions = (event,flag) => {
 
 const getAdjective = () => {
   const url = 'https://api.datamuse.com/words?';
-  const queryParams = 'rel_jbb=';
+  const queryParams = 'rel_jjb=';
   const wordQuery = inputField.value;
   const endpoint = `${url}${queryParams}${wordQuery}`;
   
